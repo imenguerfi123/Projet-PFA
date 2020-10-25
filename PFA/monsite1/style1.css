@@ -1,0 +1,65 @@
+body{
+	margin:0;
+	padding:0;
+	background: #DDD;
+}
+.Formulaire{
+margin:50px auto;
+padding:0;
+top: -50px;
+margin-top: 8px;
+}
+.Formulaire input[type="text"]
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	color: #fff;
+}
+h2{
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	color: #EF1a11;
+	font-size: 25px;
+	text-decoration: underline;
+}
+.Formulaire hr {
+color:#EF1a11;
+}
+.Formulaire input[type="submit"], input[type="reset"]
+{
+	outline: none;
+	height: 40px;
+	background: #1c8adb;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 20px;
+}
+.Formulaire input[type="submit"]:hover
+{
+	cursor: :pointer;
+	background:  #222279;
+	color: #000;
+}
+.Formulaire input[type="reset"]:hover
+{
+	cursor: :pointer;
+	background:  #222279;
+	color: #000;
+}
+.Formul{
+	margin: 0;
+	padding: 0 0 20px;
+	font-weight: bold;
+   color: #000;
+	font-size: 22px;
+}
+.Formul1{
+	margin: 0;
+	padding: 0 0 20px;
+	font-weight: bold;
+    color: #000;
+	font-size: 22px;
+}
