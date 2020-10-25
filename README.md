@@ -6,6 +6,7 @@ d’Electronique et des Télécommunications de Sfax qui s'inscrit dans le cadre
 de développer une application de système d’acquisition et de supervision des signaux électromyogrammes composée d’une partie LabVIEW (qui consiste 
 à acquérir le signal EMG et à faire son analyse dans le domaine temporel et fréquentiel) et d’une partie mobile avec l’utilisation de la plateforme 
 IOT Blynk (interface d’acquisition et de supervision des signaux EMG) et une troisième partie site web (plateforme d’acquisition des signaux EMG).
+
 Mots clés : EMG, muscle, électromyogramme, ARDUINO, ESP32, LABVIEW,Capteur MyoWare, Plateforme web, plateforme Blynk, Acquisition.</p>
 
 <h2> Abstract </h2> 
